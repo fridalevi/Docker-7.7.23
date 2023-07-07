@@ -2,3 +2,4 @@
 pwd
 ls -la
 touch 1.txt
+chmod 777 1.txt
